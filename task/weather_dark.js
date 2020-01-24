@@ -3,10 +3,10 @@
 https://github.com/sazs34/TaskConfig#%E5%A4%A9%E6%B0%94
  */
 let config = {
-    darksky_api: "填这里", //从https://darksky.net/dev/ 上申请key填入即可
-    aqicn_api: "填这里", //从http://aqicn.org/data-platform/token/#/ 上申请key填入即可
-    huweather_apiKey: "faead3de5f42420098c8132b3924cd09", //和风天气APIkey,可自行前往 https://dev.heweather.com/ 进行获取(注意key类型选WebApi)
-    lat_lon: "填这里", //请填写经纬度,直接从谷歌地图中获取即可
+    darksky_api: "85bfcfc7862eaa790d561efa75b11f16", //从https://darksky.net/dev/ 上申请key填入即可
+    aqicn_api: "927a5b67ade0779d0183db85d7c49952ea2d7671", //从http://aqicn.org/data-platform/token/#/ 上申请key填入即可
+    huweather_apiKey: "3ea60b98fdfa4eb4b117b1b61310a8ea", //和风天气APIkey,可自行前往 https://dev.heweather.com/ 进行获取(注意key类型选WebApi)
+    lat_lon: "32.0355855202,118.8931598525", //请填写经纬度,直接从谷歌地图中获取即可
     lang: "zh", //语言,请不要修改
     show: {
         log: 0, //调试日志,0为不开启,1为开启,2为开启精简日志
